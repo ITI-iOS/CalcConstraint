@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		27B7EFE6297ED27E009904B7 /* AhmadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B7EFE5297ED27E009904B7 /* AhmadViewController.swift */; };
 		DE2D4164297E080D00B595C8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2D4163297E080D00B595C8 /* AppDelegate.swift */; };
 		DE2D4166297E080D00B595C8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2D4165297E080D00B595C8 /* SceneDelegate.swift */; };
 		DE2D4168297E080D00B595C8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2D4167297E080D00B595C8 /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		27B7EFE5297ED27E009904B7 /* AhmadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AhmadViewController.swift; sourceTree = "<group>"; };
 		DE2D4160297E080D00B595C8 /* CalcConstraint.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalcConstraint.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE2D4163297E080D00B595C8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DE2D4165297E080D00B595C8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				DE2D4171297E080F00B595C8 /* LaunchScreen.storyboard */,
 				DE2D4174297E080F00B595C8 /* Info.plist */,
 				DE2D416C297E080D00B595C8 /* CalcConstraint.xcdatamodeld */,
+				27B7EFE5297ED27E009904B7 /* AhmadViewController.swift */,
 			);
 			path = CalcConstraint;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				DE2D4164297E080D00B595C8 /* AppDelegate.swift in Sources */,
 				DE2D4166297E080D00B595C8 /* SceneDelegate.swift in Sources */,
 				DE2D416E297E080D00B595C8 /* CalcConstraint.xcdatamodeld in Sources */,
+				27B7EFE6297ED27E009904B7 /* AhmadViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
