@@ -18,6 +18,7 @@
 		DE2D417E297E081000B595C8 /* CalcConstraintTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2D417D297E081000B595C8 /* CalcConstraintTests.swift */; };
 		DE2D4188297E081000B595C8 /* CalcConstraintUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2D4187297E081000B595C8 /* CalcConstraintUITests.swift */; };
 		DE2D418A297E081000B595C8 /* CalcConstraintUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE2D4189297E081000B595C8 /* CalcConstraintUITestsLaunchTests.swift */; };
+		DE847A9B297ED779006CCB8D /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE847A9A297ED779006CCB8D /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		DE2D4183297E081000B595C8 /* CalcConstraintUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalcConstraintUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE2D4187297E081000B595C8 /* CalcConstraintUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalcConstraintUITests.swift; sourceTree = "<group>"; };
 		DE2D4189297E081000B595C8 /* CalcConstraintUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalcConstraintUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DE847A9A297ED779006CCB8D /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				DE2D4165297E080D00B595C8 /* SceneDelegate.swift */,
 				DE2D4167297E080D00B595C8 /* ViewController.swift */,
 				DE2D4169297E080D00B595C8 /* Main.storyboard */,
+				DE847A9A297ED779006CCB8D /* TableViewController.swift */,
 				DE2D416F297E080F00B595C8 /* Assets.xcassets */,
 				DE2D4171297E080F00B595C8 /* LaunchScreen.storyboard */,
 				DE2D4174297E080F00B595C8 /* Info.plist */,
@@ -265,6 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE2D4168297E080D00B595C8 /* ViewController.swift in Sources */,
+				DE847A9B297ED779006CCB8D /* TableViewController.swift in Sources */,
 				DE2D4164297E080D00B595C8 /* AppDelegate.swift in Sources */,
 				DE2D4166297E080D00B595C8 /* SceneDelegate.swift in Sources */,
 				DE2D416E297E080D00B595C8 /* CalcConstraint.xcdatamodeld in Sources */,
